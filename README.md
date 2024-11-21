@@ -50,5 +50,18 @@ The dataset contains the following columns:
 2. **Install the required libraries:**
    ```bash
    pip install pandas numpy matplotlib seaborn scipy
-3. **Open and Run the Jupyter Notebook::**
-    Exploratory Data Analysis.ipynb
+3. **Open and Run the Jupyter Notebook:**
+    [View the Jupyter Notebook](./python_code.ipynb)
+
+
+## Insights
+- Identified positive correlations between property prices and features like area and number of bedrooms.
+- Detected and visualized outliers in property prices and areas.
+- Demonstrated feature distributions using advanced visualizations.
+- Implemented hypothesis testing to validate statistical insights.
+
+##Contribution
+Contributions are welcome! Feel free to fork this repository and submit a pull request to:
+- Add new visualizations or analysis methods.
+- Improve code efficiency or documentation.
+
