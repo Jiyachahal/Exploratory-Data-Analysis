@@ -60,7 +60,7 @@ The dataset contains the following columns:
 - Demonstrated feature distributions using advanced visualizations.
 - Implemented hypothesis testing to validate statistical insights.
 
-##Contribution
+## Contribution
 Contributions are welcome! Feel free to fork this repository and submit a pull request to:
 - Add new visualizations or analysis methods.
 - Improve code efficiency or documentation.
